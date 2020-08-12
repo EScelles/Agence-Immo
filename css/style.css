@@ -128,7 +128,6 @@ header a {
   max-width: 800px;
   text-align: center;
   color: white;
-  padding: 1rem;
 }
 
 .vp-content h1 {
@@ -183,7 +182,10 @@ header a {
 .who-content {
   display: flex;
   flex-flow: row nowrap;
-  min-height: 600px;
+}
+
+.who-content img {
+  flex: 1;
 }
 
 .who-content-img img {
@@ -215,7 +217,7 @@ header a {
 /* testimonials */
 
 .testimonials {
-  padding: 5rem 1rem 5rem 1rem;
+  padding: 5rem 1rem;
 }
 
 .testimonials-content {
