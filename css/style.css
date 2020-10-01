@@ -1,4 +1,4 @@
-/* reset */
+/*RESET*/
 
 * {
   margin: 0;
@@ -63,7 +63,7 @@ em {
 /* vp + header */
 
 .vp-container {
-  min-height: 100vh;
+  min-height: 70vh;
   display: flex;
   flex-direction: column;
 }
