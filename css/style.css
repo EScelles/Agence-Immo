@@ -185,14 +185,6 @@ header a {
   min-height: 600px;
 }
 
-.who-content img {
-  flex: 1;
-}
-
-.who-content-img img {
-  width: 100%;
-}
-
 .who-content-img {
   flex: 1;
   background: url(../img/team.jpg) center center/cover;
