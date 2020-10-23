@@ -179,9 +179,10 @@ header a {
 
 /* who */
 
-.who-content {
+.who {
   display: flex;
   flex-flow: row nowrap;
+  min-height: 600px;
 }
 
 .who-content img {
